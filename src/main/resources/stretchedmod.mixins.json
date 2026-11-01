@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "net.custom.stretched.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "GameRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
